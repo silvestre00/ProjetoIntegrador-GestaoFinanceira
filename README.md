@@ -109,6 +109,5 @@ streamlit run app.py
 O navegador será aberto com o endereço:
 http://localhost:8501
 
----
 
 
