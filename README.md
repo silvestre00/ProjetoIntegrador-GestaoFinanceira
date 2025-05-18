@@ -72,7 +72,12 @@ A solução permite:
 
 ## 🗂️ Estrutura do Projeto
 
-<pre><code>```text ├── app.py # Interface e lógica principal com Streamlit ├── dados_financeiros.db # Banco de dados local (gerado automaticamente) ├── database.py # Lógica de conexão, autenticação e manipulação de dados SQLite ├── requirements.txt # Dependências do projeto ├── transacoes.csv # Registro auxiliar das transações (não essencial) ├── README.md # Documentação do projeto ```</code></pre>
+- `app.py`: Interface e lógica principal com Streamlit  
+- `dados_financeiros.db`: Banco de dados local (gerado automaticamente)  
+- `database.py`: Lógica de conexão, autenticação e manipulação de dados SQLite  
+- `requirements.txt`: Dependências do projeto  
+- `transacoes.csv`: Registro auxiliar das transações (não essencial)  
+- `README.md`: Documentação do projeto  
 
 ---
 
