@@ -81,6 +81,15 @@ A solução permite:
 
 ---
 
+## 🌐Acesso ao Projeto
+
+Você pode acessar a aplicação web do projeto de gestão financeira diretamente neste link:
+
+[👉 Projeto Integrador - Gestão Financeira](https://projetointegrador-gestaofinanceira-4v7ppyxqbhxiqzpdopc7eg.streamlit.app/)
+
+**Sinta-se à vontade para testar todas as funcionalidades, registrar transações, visualizar relatórios e explorar o sistema!
+
+---
 ## 🚀 Como Executar o Projeto
 
 1. **Clone o repositório:**
@@ -100,12 +109,6 @@ streamlit run app.py
 O navegador será aberto com o endereço:
 http://localhost:8501
 
+---
 
-## 🌐 Acesso ao Projeto
-
-Você pode acessar a aplicação web do projeto de gestão financeira diretamente neste link:
-
-[👉 Projeto Integrador - Gestão Financeira](https://projetointegrador-gestaofinanceira-4v7ppyxqbhxiqzpdopc7eg.streamlit.app/)
-
-Sinta-se à vontade para testar todas as funcionalidades, registrar transações, visualizar relatórios e explorar o sistema!
 
